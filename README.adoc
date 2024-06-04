@@ -2,11 +2,11 @@
 Nadeŭka <nadevko@riseup.net>
 v1.0, 2024-04-24
 
-Solutions of numerical methods labs.
-
 * link:1/task.pdf[1]
 * link:3/task.pdf[2]
 * link:2/task.pdf[3]
 * link:4/task.pdf[4]
 * link:5/task.pdf[5]
 * link:6/task.pdf[6]
+* link:7/task.pdf[Standard calculation]
+* link:8/README.adoc[Mathematical analysis]

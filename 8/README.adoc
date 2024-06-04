@@ -1,0 +1,7 @@
+= Wolfram mathematical analysis tasks 
+Nadeŭka <nadevko@riseup.net>
+v1.0, 2024-04-24
+
+* link:1.wlnb[1]
+* link:2.wlnb[2]
+* link:3.wlnb[3]
