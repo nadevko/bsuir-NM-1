@@ -1,0 +1,13 @@
+= Wolfram mathematical analysis tasks 
+Nadeŭka <nadevko@riseup.net>
+v1.0, 2024-04-24
+
+Вычислить длины дуг кривых, заданных параметрическими уравнениями:
+
+latexmath:[
+\begin{cases}
+x=3(2\cos{t}-\cos{2t}),\\
+y=3(2\sin{t}-\sin{2t}),
+\end{cases}\\
+0\le t\le 2\pi.
+]

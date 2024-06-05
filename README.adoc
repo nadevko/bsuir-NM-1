@@ -9,4 +9,7 @@ v1.0, 2024-04-24
 * link:5/task.pdf[5]
 * link:6/task.pdf[6]
 * link:7/task.pdf[Standard calculation]
-* link:8/README.adoc[Mathematical analysis]
+* Mathematical analysis
+** link:8/README.adoc[Task 1]
+** link:9/README.adoc[Task 2]
+** link:10/README.adoc[Task 3]

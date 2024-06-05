@@ -1,0 +1,7 @@
+= Wolfram mathematical analysis tasks 
+Nadeŭka <nadevko@riseup.net>
+v1.0, 2024-04-24
+
+Вычислить площади фигур, ограниченных графиками функций:
+
+latexmath:[y=x*\sqrt{9-x^2},\\y=0~(0\le x\le \pi/2)]

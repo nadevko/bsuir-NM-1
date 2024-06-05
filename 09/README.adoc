@@ -1,0 +1,8 @@
+= Wolfram mathematical analysis tasks 
+Nadeŭka <nadevko@riseup.net>
+v1.0, 2024-04-24
+
+Вычислить площади фигур, ограниченных линиями, заданными уравнениями в полярных
+координатах:
+
+latexmath:[r=\cos{2\varphi}]
